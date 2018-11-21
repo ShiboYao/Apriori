@@ -1,0 +1,21 @@
+201 towel,mirror,shaver,shampoo,toothbrush,toothpaste
+202 towel,rug,mirror,shampoo,shaver,toothbrush,toothpaste,hanger,tissue,sweeper
+203 tissue,sweeper,rug,towel,hanger
+204 hanger,tissue,sweeper,rug
+205 toothpaste,toothbrush,towel,shaver,mirror,towel
+206 toothpaste,toothbrush,towel,mirror,shampoo
+207 shampoo,towel,hanger,shaver,mirror
+208 shampoo,towel,hanger,shaver,toothpaste
+209 rug,sweeper
+210 mirror,shaver,tissue,towel
+211 mirror,towel,hanger,shampoo
+212 mirror,toothpaste,toothbrush,shampoo,shaver
+213 tissue,shaver,mirror
+214 tissue,shaver,shampoo,mirror,hanger,sweeper
+215 toothbrush,toothpaste,shaver,hanger
+216 sweeper,tissue
+217 hanger,mirror,rug,toothpaste
+218 hanger,mirror,rug,toothpaste,toothbrush,sweeper,tissue,shaver
+219 shampoo,shaver,rug
+220 shaver,mirror
+
